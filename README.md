@@ -6,7 +6,7 @@ I am a rising Junior at the University of Minnesota Twin-Cities majoring in Comp
 ## Objective
 My journey in Computer Science has led me to develop a passion for Cybersecurity, and I am now eager to transition into this field.
 
-## Technical Skills & Other
+## Technical Skills
 
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" alt="Python Badge" />
