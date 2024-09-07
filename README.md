@@ -1,7 +1,7 @@
 # Hello, I'm Jason!
 <a href="https://www.linkedin.com/in/jason-sourivong/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a rising Junior at the University of Minnesota Twin-Cities majoring in Computer Science with a profound interest in technology and a dedication to solving complex problems.
+I am a current Junior at the University of Minnesota Twin-Cities majoring in Computer Science with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
 My journey in Computer Science has led me to develop a passion for Cybersecurity, and I am now eager to transition into this field.
