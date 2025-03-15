@@ -40,6 +40,3 @@ My journey in Computer Science has led me to develop a passion for Cybersecurity
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
   </a>
 </div>
-
-## TryHackMe Badge
-<img src="https://tryhackme-badges.s3.amazonaws.com/serjason2.png" alt="Your Image Badge" />
