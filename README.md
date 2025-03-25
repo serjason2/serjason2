@@ -3,6 +3,11 @@
 
 I am a current Senior at the University of Minnesota Twin-Cities majoring in Computer Science with a profound interest in technology and a dedication to solving complex problems.
 
+- :telescope: I'm currently working on [TryHackMe](https://tryhackme.com/p/serjason2) & [HackTheBox](https://app.hackthebox.com/profile/overview)
+- :computer: I'm currently deepening my knowledge in **Ethical Hacking & Network Security**
+- :thought_balloon: Ask me about **Cybersecurity**
+- :zap: Fun fact **I love to take photos (I'm a photographer), working out at the gym, and traveling**
+
 ## Objective
 My journey in Computer Science has led me to develop a passion for Cybersecurity, and I am now eager to transition into this field.
 
@@ -38,5 +43,9 @@ My journey in Computer Science has led me to develop a passion for Cybersecurity
 <div>
   <a href="https://www.credly.com/badges/5ead5d46-a3db-4132-85cb-86cb2563ab43/public_url" target="_blank">
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+      
+  <a href="https://coursera.org/share/1b2fa4d634875e3ff1396927e4fc4174">
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
   </a>
 </div>
+
