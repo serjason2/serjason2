@@ -39,7 +39,7 @@ My journey in Computer Science has led me to develop a passion for Cybersecurity
     <img src="https://img.shields.io/badge/-Proofpoint%20Email%20Protection-003B6F?&style=for-the-badge&logo=Proofpoint&logoColor=white" alt="Proofpoint Email Protection Badge" />
 </div>
 
-## Certification
+## Certifications
 <div>
   <a href="https://www.credly.com/badges/5ead5d46-a3db-4132-85cb-86cb2563ab43/public_url" target="_blank">
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
