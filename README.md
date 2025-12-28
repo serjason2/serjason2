@@ -1,7 +1,7 @@
 # Hello :wave:, I'm Jason!
 <a href="https://www.linkedin.com/in/jason-sourivong/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a current Senior at the University of Minnesota Twin-Cities majoring in Computer Science with a profound interest in technology and a dedication to solving complex problems.
+I am a Computer Science graduate from the University of Minnesota Twin-Cities with a profound interest in technology and a dedication to solving complex problems.
 
 - :telescope: I'm currently working on [TryHackMe](https://tryhackme.com/p/serjason2) & [HackTheBox](https://app.hackthebox.com/profile/overview)
 - :computer: I'm currently deepening my knowledge in **Ethical Hacking & Network Security**
