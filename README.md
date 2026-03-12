@@ -43,6 +43,9 @@ My journey in Computer Science has led me to develop a passion for Cybersecurity
 <div>
   <a href="https://www.credly.com/badges/5ead5d46-a3db-4132-85cb-86cb2563ab43/public_url" target="_blank">
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
+<a href="https://www.credly.com/badges/84773736-a688-474d-ab4b-9d9f3ff22ead/public_url" target="_blank">
+<img src="https://img.shields.io/badge/Network%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
       
   <a href="https://coursera.org/share/1b2fa4d634875e3ff1396927e4fc4174">
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
