@@ -3,7 +3,7 @@
 
 I am a Computer Science graduate from the University of Minnesota Twin-Cities with a profound interest in technology and a dedication to solving complex problems.
 
-- :telescope: I'm currently working on [TryHackMe](https://tryhackme.com/p/serjason2) & [HackTheBox](https://app.hackthebox.com/profile/overview)
+- :telescope: I'm currently working on [TryHackMe](https://tryhackme.com/p/serjason2), [HackTheBox](https://app.hackthebox.com/profile/overview), & studying for the [CompTIA CySA+ CS0-003](https://www.comptia.org/en-us/certifications/cybersecurity-analyst/) exam to keep my skills sharp in Cybersecurity.
 - :computer: I'm currently deepening my knowledge in **Ethical Hacking & Network Security**
 - :thought_balloon: Ask me about **Cybersecurity**
 - :zap: Fun fact **I love to take photos (I'm a photographer), working out at the gym, and traveling**
