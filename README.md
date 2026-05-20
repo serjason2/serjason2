@@ -3,16 +3,15 @@
 
 I am a Computer Science graduate from the University of Minnesota Twin-Cities with a profound interest in technology and a dedication to solving complex problems.
 
-- :telescope: I'm currently working on [TryHackMe](https://tryhackme.com/p/serjason2), [HackTheBox](https://app.hackthebox.com/profile/overview), & studying for the [CompTIA CySA+ CS0-003](https://www.comptia.org/en-us/certifications/cybersecurity-analyst/) exam to keep my skills sharp in Cybersecurity.
+- :telescope: I'm currently working on [TryHackMe](https://tryhackme.com/p/serjason2), [HackTheBox](https://app.hackthebox.com/public/users/2103314), [KC7](https://kc7cyber.com/profile/5bd33fcd), & studying for the [CompTIA CySA+ CS0-003](https://www.comptia.org/en-us/certifications/cybersecurity-analyst/) exam to keep my skills sharp in Cybersecurity.
 - :computer: I'm currently deepening my knowledge in **Ethical Hacking & Network Security**
 - :thought_balloon: Ask me about **Cybersecurity**
 - :zap: Fun fact **I love to take photos (I'm a photographer), working out at the gym, and traveling**
 
 ## Objective
-My journey in Computer Science has led me to develop a passion for Cybersecurity, and I am now eager to transition into this field.
+Cybersecurity professional beginning a CsDP Associate role at UnitedHealth Group in July, focused on building hands-on experience in security operations, threat detection, and incident response.
 
 ## Technical Skills
-
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" alt="Python Badge" />
     <img src="https://img.shields.io/badge/-Java-F80000?&style=for-the-badge&logo=Java&logoColor=white" alt="Java Badge" />
@@ -30,7 +29,10 @@ My journey in Computer Science has led me to develop a passion for Cybersecurity
 </div>
 
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk%20(SPL)-000000?&style=for-the-badge&logo=Splunk&logoColor=white" alt="Splunk SPL Badge" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Sentinel%20(KQL)-5E5E5E?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="Microsoft Sentinel KQL Badge" />
+    <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" alt="VMware Badge" />
+
 </div>
 
 <div>
